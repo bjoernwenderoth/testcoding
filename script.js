@@ -9,7 +9,7 @@ let gruende = [
     'dass du ein',
     'TOLLER MENSCH',
     'bist!',
-    ':) ❤️',
+    ':) ❤️'
 ];
 
 function ausgabe() {
